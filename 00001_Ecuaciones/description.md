@@ -17,3 +17,5 @@ Dividir las operaciones en nodos puede ayudar. El mismo ejemplo
  (2 * 5) + 10
 
 puede pensarse como:
+
+![asdsd](https://fdd94259-a-62cb3a1a-s-sites.googlegroups.com/site/utndesign/material/guia-de-ejercicios/guia-objetos-patrones/ecuaciones/Ecuaciones.png?attachauth=ANoY7codNR7kqLkRXze9MXCCJDF7n-7zloNuhcdcQ7dIF8Cot-pfxrdWAZvt1yDbm2B8PK2vFOaJc4DwG0p181RsG1iQ98sNyWXbkzlQrWGo2aO3vPWYNOUSa9nWuWzfw0AKkSEDiEcSa712HwG3HOFOh32e3QTzTOQoBBb1jp6a0YxV1MxOJfytwiJr7EY7ZxacF8m-nm3uCurknq2vhs7hfpNdSDDCVPI_v2pBAMfV60wt5ftefizMd1necylBPgef2z4KoYOdLyG9c03tOIn9JnQGxKPPzGZUX2NB050pradwHtiGghY%3D&attredirects=0)
