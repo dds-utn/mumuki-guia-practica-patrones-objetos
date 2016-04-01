@@ -6,6 +6,10 @@ class Regalo
     @valor = valor
     @fecha_entrega = fecha_entrega
   end
+  
+  def juguete
+    !ropa
+  end
 end
 
 class Persona
