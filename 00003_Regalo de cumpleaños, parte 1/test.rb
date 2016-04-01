@@ -1,8 +1,4 @@
 describe 'regalo de cumpleaños' do 
-  let(:jeans) { Regalo.new(true, 120, Time.now) }
-  let(:remera) { Regalo.new(true, 40, Time.now) }
-  let(:superman) { Regalo.new(false, 30, Time.parse('2015-4-13')) }
-    
   it { expect(jose.le_gusta? jean).to be true }
   it { expect(jose.le_gusta? remera).to be true }
   it { expect(jose.le_gusta? superman).to be true }
