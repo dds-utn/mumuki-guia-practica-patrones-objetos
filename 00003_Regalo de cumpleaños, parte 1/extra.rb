@@ -18,6 +18,6 @@ class Persona
   attr_accessor :fecha_cumpleanios
 end
 
-jeans = Regalo.new(true, 120, Time.now)
+jean = Regalo.new(true, 120, Time.now)
 remera = Regalo.new(true, 40, Time.now)
 superman = Regalo.new(false, 30, Time.now)
