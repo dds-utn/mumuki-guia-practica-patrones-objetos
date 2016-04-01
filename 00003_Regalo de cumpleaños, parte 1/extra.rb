@@ -1,4 +1,6 @@
-class Regalo
+require 'time'
+
+eclass Regalo
   attr_accessor :ropa, :valor, :fecha_entrega
   
   def initialize(ropa, valor, fecha_entrega)
@@ -14,10 +16,6 @@ end
 
 class Persona
   attr_accessor :fecha_cumpleanios
-  
-  def initialize(fecha_cumpleanios)
-    @fecha_cumpleanios = fecha_cumpleanios
-  end
 end
 
 jeans = Regalo.new(true, 120, Time.now)
