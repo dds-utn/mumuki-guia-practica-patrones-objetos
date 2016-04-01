@@ -2,7 +2,7 @@
 
 * hay gente que prefiere ropa
 * hay gente que sólo le gusta recibir el regalo el mismo día en que cumple años
-* hay gente que prefiere juguetes o ropa que salga más de 100$
+* hay gente que prefiere cosas caras, es decir, que salgan más de $100
 * hay gente que le da lo mismo cualquier cosa (todo le gusta)
 
 Además, sabemos que la interfaz del `Regalo` y de la `Persona` incluye los siguientes mensajes:  
