@@ -1,6 +1,6 @@
 require 'time'
 
-eclass Regalo
+class Regalo
   attr_accessor :ropa, :valor, :fecha_entrega
   
   def initialize(ropa, valor, fecha_entrega)
