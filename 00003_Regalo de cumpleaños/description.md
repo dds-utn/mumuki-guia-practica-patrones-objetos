@@ -12,4 +12,4 @@ Además, sabemos que la interfaz del `Regalo` y de la `Persona` incluye los sigu
 > Queremos averiguar si un regalo puede gustarle a una persona. 
 > 
 > 1. Pensá: ¿dónde pondrías el método que nos diga esto? ¿En `Regalo` o `Persona`?
-> 2, Implementá una solución 
+> 2. Implementá una solución 
