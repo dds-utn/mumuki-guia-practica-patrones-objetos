@@ -3,6 +3,7 @@ name: Práctica Patrones de Diseño
 locale: es
 type: practice
 beta: false
+teacher_info: 
 language: ruby
 id_format: '%05d'
 order:
